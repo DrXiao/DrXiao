@@ -1,7 +1,7 @@
 # Dr.Xiao
 
 <h1 align="center">Hi 👋, I'm Dr.Xiao</h1>
-<h3 align="center">A passionate linux and C programming developer from Taiwan</h3>
+<h3 align="center">A Linux and C programming enthusiast</h3>
 
 - 🌱 I’m currently learning **Linux kernel programming and advanced C programming skills**
 
@@ -10,6 +10,8 @@
 - 📫 How to reach me **zxc71230@gmail.com**
 
 - ⚡ Fun fact **If you don't feel that C language is easy, it is only because you do not realize how complicated life is**
+
+- 👨‍💻 If you are also a Linux or C language enthusiast, **welcome to discuss the related skills!**
 
 
 <h3 align="left">Languages and Tools:</h3>
