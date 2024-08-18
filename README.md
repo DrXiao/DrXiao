@@ -3,7 +3,7 @@ A software engineer specializing in the research of C compilers and system softw
 
 - I’m currently learning: **Compiler techniques and advanced C programming skills**
 
-- How to reach me: **zxc71230@gmail.com**
+- How to reach me: **drxiao6399@gmail.com**
 
 ### Fun fact
 **If you don't think C language is easy, it is only because you do not realize how complicated life is.**
